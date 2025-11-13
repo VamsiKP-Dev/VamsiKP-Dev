@@ -4,6 +4,10 @@
   <img src="banner.png" alt="Vamsi Krishna P Banner" style="max-width:100%; height:auto; border-radius:6px;" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VamsiKP-Dev/VamsiKP-Dev/main/yourbanner.png" alt="Vamsi Krishna P Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Vamsi Krishna P
 
 **DevOps Engineer (4+ Years Experience)**  
