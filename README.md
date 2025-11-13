@@ -7,7 +7,7 @@
 # 👋 Hi, I'm Vamsi Krishna P
 
 **DevOps Engineer (4+ Years Experience)**  
-*Automation & Cloud Delivery Engineer*  
+*DevOps Engineer (4+ yrs) | CI/CD | Docker | Kubernetes | Python | Automation & Cloud Delivery Engineer*  
 
 ---
 
