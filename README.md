@@ -39,7 +39,7 @@
 ### 🏅 Badges
 <p>
   <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=flat-square" alt="DevOps badge" />
-  <img src="https://img.shields.io/badge/Cloud-Practitioner-4CAF50?style=flat-square" alt="Cloud badge" />
+  <img src="https://img.shields.io/badge/Cloud-4CAF50?style=flat-square" alt="Cloud badge" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-%2326A5E4?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
