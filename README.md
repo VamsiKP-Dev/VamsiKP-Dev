@@ -4,7 +4,7 @@
   <img src="banner.png" alt="Vamsi Krishna P Banner" style="max-width:100%; height:auto; border-radius:6px;" />
 </p>
 
-# 👋 Hi, I'm Vamsi Krishna P
+# Vamsi Krishna P
 
 **DevOps Engineer (4+ Years Experience)**  
 *DevOps Engineer (4+ yrs) | CI/CD | Docker | Kubernetes | Python | Automation & Cloud Delivery Engineer*  
