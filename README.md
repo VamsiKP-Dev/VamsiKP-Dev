@@ -1,59 +1,76 @@
-## Hi There 👋
 
-<p align="center">
-  <img src="banner.png" alt="Vamsi Krishna P Banner" style="max-width:100%; height:auto; border-radius:6px;" />
-</p>
+![banner](https://raw.githubusercontent.com/.../banner.png)
 
-# Vamsi Krishna P
 
-**DevOps Engineer (4+ Years Experience)**  
-*DevOps Engineer (4+ yrs) | CI/CD | Docker | Kubernetes | Python | Automation & Cloud Delivery Engineer*  
+# 👋 Hi, I'm Vamsi Krishna Polimera  
+### DevOps Engineer | CI/CD Automation | Cloud | Kubernetes
 
----
+<img align="right" src="YOUR_PHOTO_URL_HERE" width="160" style="border-radius:12px;">
 
-### 🧰 Tech Stack
-- **Cloud / Infra:** AWS (EC2, ECR, S3), IAM  
-- **Containers & Orchestration:** Docker, Kubernetes (kubectl, Helm)  
-- **CI/CD & Automation:** Jenkins, GitHub Actions, Docker Compose  
-- **Scripting / Apps:** Python, Bash  
-- **IaC & Config:** Terraform, Ansible  
-- **Monitoring:** Prometheus, Grafana
+I'm a DevOps Engineer with 4 years of hands-on experience building CI/CD pipelines, automating cloud infrastructure,
+and improving deployment reliability. Skilled in Jenkins, Docker, Kubernetes, Terraform, Azure, AWS, and monitoring
+solutions like Prometheus, Grafana, and ELK.
 
 ---
 
-### 🔭 Featured Projects
-- **Telecom CI-CD** — Jenkins + Docker Compose microservices demo.  
-- **FastAPI K8s Demo** — small API deployed to Kubernetes.  
-- **E-commerce CI/CD** — example pipeline from build to deploy.
-
-(See pinned repositories below 👇)
+## 🔗 Connect With Me
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Vamsi%20Krishna%20P-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsikp-dev)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-VamsiKP--Dev-black?logo=github&logoColor=white)](https://github.com/VamsiKP-Dev)
+[![Email Badge](https://img.shields.io/badge/Email-vamsikrishnap%40hotmail.com-red?logo=gmail&logoColor=white)](mailto:vamsikrishnap@hotmail.com)
 
 ---
 
-### 📫 Connect
-[![LinkedIn](https://) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VamsiKP-Dev)
+## 🛠️ Skills & Technologies
+
+### 🚀 DevOps
+![Jenkins](https://img.shields.io/badge/Jenkins-blue)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops)
+
+### ☁ Cloud
+![Azure](https://img.shields.io/badge/Azure-008AD7?logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
+
+### 🧱 Infrastructure
+![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes)
+
+### 📊 Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-orange)
+![Grafana](https://img.shields.io/badge/Grafana-black?logo=grafana)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
 
 ---
 
-### 🏅 Badges
-<p>
-  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=flat-square" alt="DevOps badge" />
-  <img src="https://img.shields.io/badge/Cloud-4CAF50?style=flat-square" alt="Cloud badge" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-%2326A5E4?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
+## 📘 Featured Projects
+
+### **1️⃣ CI/CD Pipeline Automation for Telecom Microservices**
+Jenkins + Docker + AWS ECS + Kubernetes + Helm  
+➡ Reduced deployment time by 50%  
+➡ Improved scalability & release cycle efficiency
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VamsiKP-Dev&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiKP-Dev&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+### **2️⃣ Cloud Infrastructure Automation (Terraform + Azure)**
+Automated provisioning of compute, VNet, storage using Terraform  
+➡ Reduced manual setup time by 40%  
 
 ---
 
-⭐ I pin my best projects below — check them out!
+### **3️⃣ Monitoring & Observability**
+Prometheus + Grafana + ELK  
+➡ Improved incident response by 30%
+
+---
+
+## 📊 GitHub Stats
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=VamsiKP-Dev&show_icons=true&theme=default" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiKP-Dev&layout=compact&theme=default" />
+
+---
+
+## 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=VamsiKP-Dev&color=blue)
