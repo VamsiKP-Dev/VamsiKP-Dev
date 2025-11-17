@@ -1,79 +1,101 @@
 
-<!-- Banner -->
-![banner](YOUR_BANNER_IMAGE_URL_HERE)
+<div align="center">
+  <!-- Replace this once your banner is generated -->
+  <img src="BANNER_URL_HERE" alt="GitHub Banner" width="800"/>
+</div>
 
-# 👋 Hi, I’m **Vamsi Krishna Polimera**
+# 👋 Hi, I'm **Vamsi Krishna Polimera**
 
-### **DevOps Engineer | CI/CD Automation | Cloud | Kubernetes**
+### **DevOps Engineer – Cloud & CI/CD Automation**  
+🚀 AWS • Kubernetes • Terraform • Docker • CI/CD • Monitoring (Prometheus, Grafana, ELK)
 
-I’m a DevOps Engineer with 4 years of experience in building CI/CD pipelines, automating cloud infrastructure, working with container orchestration platforms, and implementing monitoring stacks for reliable deployments.  
-Skilled in **Jenkins, Docker, Kubernetes, Terraform, AWS, Prometheus, Grafana, ELK**.
-
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-VamsiKrishnaPolimera-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsikp-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-VamsiKP--Dev-black?logo=github&logoColor=white)](https://github.com/VamsiKP-Dev)
-[![Email](https://img.shields.io/badge/Email-vamsikrishnap%40hotmail.com-red?logo=gmail&logoColor=white)](mailto:vamsikrishnap@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/vamsikp-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat)](https://github.com/VamsiKP-Dev)
+[![Email](https://img.shields.io/badge/Email-vamsi.devops%40gmail.com-red?logo=gmail&style=flat)](mailto:vamsi.devops@gmail.com)
 
 ---
 
-## 🛠️ **Skills & Tools**
+I'm a passionate **DevOps Engineer** with **4 years of hands-on experience** in automating cloud infrastructure, designing scalable CI/CD pipelines, and managing Kubernetes-based deployments.
 
-### 🚀 DevOps & CI/CD  
-![Jenkins](https://img.shields.io/badge/Jenkins-blue)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=github)
+I specialize in delivering reliable, secure, and production-ready DevOps solutions across **AWS, Docker, Terraform, Jenkins, Prometheus, Grafana, and ELK**.
 
-### ☁ Cloud
-![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
+I love solving real engineering problems, enabling faster deployments, and building automation that improves reliability and developer productivity.
 
-### 🧱 Infrastructure-as-Code  
-![Terraform](https://img.shields.io/badge/Terraform-purple?logo=terraform&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes)
+---
 
-### 📊 Monitoring & Logging  
-![Prometheus](https://img.shields.io/badge/Prometheus-orange?logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-black?logo=grafana)
-![ELK](https://img.shields.io/badge/ELK_Stack-blue?logo=elastic)
+## 🧰 **Tech Stack**
 
-### 💻 Programming & Scripting  
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
-![YAML](https://img.shields.io/badge/YAML-grey)
+### ☁ **Cloud Platforms**
+- AWS  
+
+### 🚀 **CI/CD**
+- Jenkins • GitHub Actions  
+
+### 🧱 **Infrastructure as Code (IaC)**
+- Terraform  
+
+### 🐳 **Containers**
+- Docker • Kubernetes  
+
+### 📊 **Monitoring & Logging**
+- Prometheus • Grafana • ELK Stack  
+
+### 💻 **Scripting & Programming**
+- Bash • Python • YAML  
+
+---
+
+## 🔧 **What I Do**
+
+- 🚀 Build end-to-end **CI/CD pipelines** using Jenkins and GitHub Actions  
+- 🌩 Deploy scalable workloads on **AWS (ECS, EKS)**
+- ⚙ Automate infrastructure provisioning with **Terraform**  
+- 🛡 Implement secure IAM, networking, and cloud best practices  
+- 🐳 Containerize microservices using **Docker** and orchestrate with **Kubernetes**  
+- 📈 Implement monitoring & alerting using **Prometheus, Grafana, and ELK**  
+- 🤖 Automate operational workflows using **Shell scripting & Python**
 
 ---
 
 ## 📘 **Featured Projects**
 
-### **1️⃣ CI/CD Pipeline Automation for Telecom Microservices**
-- Jenkins + Docker + AWS ECS + Kubernetes + Helm  
-- Automated build → scan → test → deploy pipeline  
-- Improved deployment speed by **50%**  
-- Enhanced microservices scalability & availability  
+### **1️⃣ CI/CD Pipeline Automation – Telecom Microservices**
+- Designed multi-stage CI/CD (build → scan → test → deploy)  
+- Automated Docker-based builds and deployments  
+- Improved deployment efficiency by **50%**  
+- Integrated quality checks (SonarQube, Trivy)  
 
 ---
 
-### **2️⃣ Cloud Infrastructure Automation (Terraform)**
-- Automated provisioning of VNets, Subnets, Storage, Compute  
-- Deployed complete infra using Terraform IaC modules  
-- Reduced manual provisioning time by **40%**  
+### **2️⃣ Cloud Infrastructure Automation with Terraform**
+- Built reusable Terraform modules for networks, compute, and storage  
+- Automated provisioning reducing manual deployment effort by **40%**  
+- Implemented secure VPC, IAM, monitoring integrations  
 
 ---
 
-### **3️⃣ Monitoring & Observability Setup**
-- Implemented Prometheus + Grafana + ELK  
-- Built dashboards for cluster metrics, logs & alerts  
-- Improved incident response time by **30%**  
+### **3️⃣ Monitoring & Observability Platform**
+- Deployed **Prometheus + Grafana + ELK**  
+- Built custom dashboards for K8s, AWS services, and microservices  
+- Reduced incident response time by **30%**
 
 ---
 
 ## 📊 **GitHub Stats**
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=VamsiKP-Dev&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiKP-Dev&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VamsiKP-Dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiKP-Dev&theme=tokyonight&hide_border=false&layout=compact"/>
+</div>
+
+---
+
+## 🐍 **GitHub Contribution Snake**
+
+<div align="center">
+  <!-- Replace with your snake link once setup -->
+  <img src="https://github.com/VamsiKP-Dev/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
 
 ---
 
