@@ -1,6 +1,5 @@
 
-![banner](https://raw.githubusercontent.com/.../banner.png)
-
+![Uploading DSC00428.jpg…]()
 
 <!-- Banner -->
 ![banner](YOUR_BANNER_IMAGE_URL_HERE)
