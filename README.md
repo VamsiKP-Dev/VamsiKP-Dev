@@ -1,5 +1,5 @@
 
-![DSC00428](https://github.com/user-attachments/assets/90c914a0-221c-49f4-9a91-33f45bbf29b0)
+<img align="right" src="https://github.com/user-attachments/assets/90c914a0-221c-49f4-9a91-33f45bbf29b0" width="120" style="border-radius:10px;" />
 
 
 <!-- Banner -->
