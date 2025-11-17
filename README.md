@@ -75,8 +75,8 @@ Skilled in **Jenkins, Docker, Kubernetes, Terraform, Azure, AWS, Prometheus, Gra
 ## 📊 **GitHub Stats**
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=VamsiKP-Dev&show_icons=true&theme=default" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiKP-Dev&layout=compact&theme=default" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=VamsiKP-Dev&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiKP-Dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
