@@ -7,7 +7,7 @@
 ### **DevOps Engineer | CI/CD Automation | Cloud | Kubernetes**
 
 I’m a DevOps Engineer with 4 years of experience in building CI/CD pipelines, automating cloud infrastructure, working with container orchestration platforms, and implementing monitoring stacks for reliable deployments.  
-Skilled in **Jenkins, Docker, Kubernetes, Terraform, Azure, AWS, Prometheus, Grafana, ELK**.
+Skilled in **Jenkins, Docker, Kubernetes, Terraform, AWS, Prometheus, Grafana, ELK**.
 
 ---
 
@@ -24,10 +24,8 @@ Skilled in **Jenkins, Docker, Kubernetes, Terraform, Azure, AWS, Prometheus, Gra
 ### 🚀 DevOps & CI/CD  
 ![Jenkins](https://img.shields.io/badge/Jenkins-blue)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?logo=github)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops)
 
-### ☁ Cloud  
-![Azure](https://img.shields.io/badge/Azure-008AD7?logo=microsoftazure&logoColor=white)  
+### ☁ Cloud
 ![AWS](https://img.shields.io/badge/AWS-black?logo=amazonaws)
 
 ### 🧱 Infrastructure-as-Code  
@@ -56,7 +54,7 @@ Skilled in **Jenkins, Docker, Kubernetes, Terraform, Azure, AWS, Prometheus, Gra
 
 ---
 
-### **2️⃣ Cloud Infrastructure Automation (Terraform + Azure)**
+### **2️⃣ Cloud Infrastructure Automation (Terraform)**
 - Automated provisioning of VNets, Subnets, Storage, Compute  
 - Deployed complete infra using Terraform IaC modules  
 - Reduced manual provisioning time by **40%**  
