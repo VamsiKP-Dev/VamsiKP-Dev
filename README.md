@@ -1,6 +1,6 @@
 
 
-  <img src="[BANNER_URL_HERE]" alt="GitHub Banner" width="800"/>
+  <img src="M9gbBd9nbDrOTu1Mqx.webp" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm **Vamsi Krishna Polimera**
