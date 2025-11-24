@@ -1,7 +1,10 @@
 
-
-  <img src="M9gbBd9nbDrOTu1Mqx.webp" alt="GitHub Banner" width="800"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VamsiKP-Dev/VamsiKP-Dev/refs/heads/main/M9gbBd9nbDrOTu1Mqx.webp"
+       alt="GitHub Image"
+       style="max-width: 450px; height: auto; border-radius: 12px;" />
 </div>
+
 
 # 👋 Hi, I'm **Vamsi Krishna Polimera**
 
@@ -9,9 +12,8 @@
 🚀 AWS • Kubernetes • Terraform • Docker • CI/CD • Monitoring (Prometheus, Grafana, ELK)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/vamsikp-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat)](https://github.com/VamsiKP-Dev)
-[![Email](https://img.shields.io/badge/Email-vamsikrishnap%40hotmail.com-red?logo=gmail&style=flat)](mailto:vamsikrishnap@hotmail.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github&style=flat)](https://github.com/VamsiKP-Dev)
+[![Email](https://img.shields.io/badge/Email-vamsikrishnap%40hotmail.com-blue?logo=gmail&style=flat)](mailto:vamsikrishnap@hotmail.com)
 
 ---
 
