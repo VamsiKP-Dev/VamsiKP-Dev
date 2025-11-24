@@ -10,7 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/vamsikp-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat)](https://github.com/VamsiKP-Dev)
-[![Email](https://img.shields.io/badge/Email-vamsi.devops%40gmail.com-red?logo=gmail&style=flat)](mailto:vamsikrishnap@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-vamsikrishnap%40hotmail.com-red?logo=gmail&style=flat)](mailto:vamsikrishnap@hotmail.com)
+
 
 ---
 
