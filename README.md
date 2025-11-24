@@ -1,8 +1,6 @@
 
-<div align="center">
-  <!-- Replace this once your banner is generated -->![M9gbBd9nbDrOTu1Mqx](https://github.com/user-attachments/assets/4001e35c-6995-49ed-871f-74823de4f421)
 
-  <img src="[BANNER_URL_HERE](https://github.com/user-attachments/assets/4001e35c-6995-49ed-871f-74823de4f421)" alt="GitHub Banner" width="800"/>
+  <img src="[BANNER_URL_HERE]" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, I'm **Vamsi Krishna Polimera**
@@ -12,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/vamsikp-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat)](https://github.com/VamsiKP-Dev)
-[![Email](https://img.shields.io/badge/Email-vamsi.devops%40gmail.com-red?logo=gmail&style=flat)](mailto:vamsi.devops@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vamsi.devops%40gmail.com-red?logo=gmail&style=flat)](mailto:vamsikrishnap@hotmail.com)
 
 ---
 
