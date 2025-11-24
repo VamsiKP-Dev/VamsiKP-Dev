@@ -1,6 +1,7 @@
 
 <div align="center">
-  <!-- Replace this once your banner is generated -->
+  <!-- Replace this once your banner is generated -->![M9gbBd9nbDrOTu1Mqx](https://github.com/user-attachments/assets/4001e35c-6995-49ed-871f-74823de4f421)
+
   <img src="BANNER_URL_HERE" alt="GitHub Banner" width="800"/>
 </div>
 
