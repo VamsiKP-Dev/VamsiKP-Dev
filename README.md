@@ -24,7 +24,24 @@ I specialize in delivering reliable, secure, and production-ready DevOps solutio
 I love solving real engineering problems, enabling faster deployments, and building automation that improves reliability and developer productivity.
 
 ---
+---
+## 🌟 **Key Achievements**
 
+• Reduced deployment time by 60% by building automated CI/CD pipelines using Jenkins, Docker & Kubernetes.
+
+• Improved microservice reliability by deploying Kubernetes workloads with rolling updates, health checks & Ingress routing.
+
+• Designed AWS infrastructure using EC2, IAM, S3, VPC, CloudWatch → improved uptime by 40%.
+
+• Created Terraform modules with remote backend for production-level infra automation.
+
+• Built monitoring and alerting using Prometheus, Grafana & Alertmanager → reduced manual issue detection by 70%.
+
+• Optimized Docker images resulting in 45% reduction in image size using multi-stage builds.
+
+---
+
+---
 ## 🧰 **Tech Stack**
 
 ### ☁ **Cloud Platforms**
