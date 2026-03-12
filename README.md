@@ -17,7 +17,7 @@
 
 ---
 
-I'm a passionate **DevOps Engineer** with **4 years of hands-on experience** in automating cloud infrastructure, designing scalable CI/CD pipelines, and managing Kubernetes-based deployments.
+I'm a passionate **DevOps Engineer** with **4+ years of hands-on experience** in automating cloud infrastructure, designing scalable CI/CD pipelines, and managing Kubernetes-based deployments.
 
 I specialize in delivering reliable, secure, and production-ready DevOps solutions across **AWS, Docker, Terraform, Jenkins, Prometheus, Grafana, and ELK**.
 
